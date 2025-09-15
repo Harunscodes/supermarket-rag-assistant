@@ -1,0 +1,16 @@
+version: "3.8"
+services:
+  neo4j:
+    image: neo4j:5.23
+    container_name: neo4j
+    ports:
+      - "7474:7474"   # Browser
+      - "7687:7687"   # Bolt
+    environment:
+      NEO4J_AUTH: neo4j/testpassword
+      NEO4J_PLUGINS: '["apoc"]'
+      NEO4J_dbms_security_procedures_unrestricted: "apoc.*"
+    volumes:
+      - neo4j-data:/data
+volumes:
+  neo4j-data:

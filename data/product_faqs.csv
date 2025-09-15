@@ -1,0 +1,101 @@
+brand,category,question,answer,domain,id
+SupermarketCo,Bakery,What sizes are available for the Gluten-Free Chocolate Cake?,The GFC can be purchased in both single and double layer options.,product,5c4099f9
+SupermarketCo,Bakery,Are there any promotions on gluten-free baked goods at SupermarketCo'in the Bakery section?,"Yes, currently you receive a discount when purchasing two or more Gluten-Free items with individual prices of $8 or less.",product,9abc7a99
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Bakery,What types of bread are available at SupermarketCo's Bakery section?,"SupermarketCo offers a selection including whole wheat, sourdough, and multigrain loaves.",product,e2237a12
+SupermarketCo,Bakery,Do the bakery products cater to any specific dietary restrictions or allergies?,"Yes, we offer gluten-free bread options for those with celiac disease or sensitivities. Check our allergen information on display and at checkout counters.",product,42696b02
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Bakery,What are the size options for your freshly baked bread at SupermarketCo?,Our freshly baked bread comes in loaves and rolls.,product,53fcb63a
+SupermarketCo,Bakery,Are there any gluten-free or vegan options available on sale from our Bakery products today?,"Yes, we have a promotion for Gluten-Free Vegan Muffins with an eligibility of spending at least $10.",product,a4cdced2
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Bakery,What gluten-free options are available at SupermarketCo's Bakery section?,"SupermarketCo offers a variety of freshly baked, delicious Gluten Free muffins and bread loaves.",product,4466055d
+SupermarketCo,Bakery,Can I get any discount on bulk purchases in the Promotion Deals at SupermarketCo?,"Yes, customers can save when buying multiple items. Refer to our website for eligible promotions with minimum spend thresholds and stacking options.",product,e9045f08
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Bakery,Question about bakery products?,This product category follows standard availability and promotion rules.,product,c7e001c0
+SupermarketCo,Dairy,Question about dairy products?,This product category follows standard availability and promotion rules.,product,52f271d0
+SupermarketCo,Dairy,What are the different sizes available for our dairy products at SupermarketCo?,"Our full range includes small, medium, and large portions suitable for individual or family consumption.",product,4f051829
+SupermarketCo,Dairy,Are there any non-dairy milk alternatives offered by SupermarketCo that cater to specific dietary needs like lactose intolerance or veganism?,"Yes, we offer almond, soy, and oat milks in cartons designed for dairy substitution.",product,d762db70
+SupermarketCo,Dairy,Question about dairy products?,This product category follows standard availability and promotion rules.,product,52f271d0
+SupermarketCo,Dairy,Question about dairy products?,This product category follows standard availability and promotion rules.,product,52f271d0
+SupermarketCo,Dairy,Question about dairy products?,This product category follows standard availability and promotion rules.,product,52f271d0
+SupermarketCo,Dairy,Question about dairy products?,This product category follows standard availability and promotion rules.,product,52f271d0
+SupermarketCo,Dairy,Can I purchase lactose-free milk at SupermarketCo?,"Yes, we offer a variety of dairy products including lactose-free options.",product,bf104e7d
+SupermarketCo,Dairy,Are there any current promotions on cheese and what are the eligibility criteria for these deals?,SupermarketCo is currently offering discounted bulk purchases. Eligible customers can receive up to 10% off when spending a minimum of $25.,product,43eeea85
+SupermarketCo,Dairy,Question about dairy products?,This product category follows standard availability and promotion rules.,product,52f271d0
+SupermarketCo,Dairy,What dairy products does SupermarketCo offer that are suitable for vegans?,SupermarketCo offers a range of plant-based cheeses and almond milk.,product,67469bab
+SupermarketCo,Dairy,Are there any promotions on dairy products at SupermarketCo right now?,"Yes, customers can use their loyalty points as cashback when purchasing $50 worth of dairy items.",product,d7cecefd
+SupermarketCo,Dairy,Question about dairy products?,This product category follows standard availability and promotion rules.,product,52f271d0
+SupermarketCo,Dairy,Question about dairy products?,This product category follows standard availability and promotion rules.,product,52f271d0
+SupermarketCo,Dairy,What dairy products does SupermarketCo offer for lactose intolerant customers?,SupermarketCo offers Lactose-Free Milk and Almond Cheese as suitable options for those with lactose intolin,product,9298f7a9
+SupermarketCo,Dairy,"Are there any promotions on milk available at SupermarketCo, and what are the eligibility criteria?","Yes, customers can benefit from a 10% discount on all dairy products during weekends if they spend over $50.",product,5bd5e011
+SupermarketCo,Dairy,Question about dairy products?,This product category follows standard availability and promotion rules.,product,52f271d0
+SupermarketCo,Dairy,Question about dairy products?,This product category follows standard availability and promotion rules.,product,52f271d0
+SupermarketCo,Dairy,Can I find lactose-free dairy products at SupermarketCo?,"Yes, SupermarketCo offers a variety of lactose-free milk and cheese options.",product,95ae85c7
+SupermarketCo,Dairy,Are there any promotions available for dairy items in the Dairy category at SupermarketCo?,Customers who spend over $50 can get 15% off on select dairy products during our weekly FreshFare promotion.,product,ca63d8b9
+SupermarketCo,Fresh Produce,Question about fresh produce products?,This product category follows standard availability and promotion rules.,product,eb273a8e
+SupermarketCo,Fresh Produce,What size options are available for organic apples?,"Organic apples come in small, medium, and large sizes.",product,d3816baf
+SupermarketCo,Fresh Produce,Are there any promotions on gluten-free products this month?,"Yes, customers who spend a minimum of $50 qualify for free delivery when purchasing at least three different items from the gluten-free section.",product,cc4d9e52
+SupermarketCo,Fresh Produce,Question about fresh produce products?,This product category follows standard availability and promotion rules.,product,eb273a8e
+SupermarketCo,Fresh Produce,What are the common allergens present in SupermarketCo's organic apples?,"Organic apples typically do not contain added allergens, but they can carry natural traces of pollen.",product,b2d22527
+SupermarketCo,Fresh Produce,Are there any size options available for avocados at SupermarketCo during promotions?,"Yes, customers are eligible to purchase a variety of organic avocado sizes such as standard (medium) and extra-large whenever they offer discounts.",product,e579c175
+SupermarketCo,Fresh Produce,Question about fresh produce products?,This product category follows standard availability and promotion rules.,product,eb273a8e
+SupermarketCo,Fresh Produce,Question about fresh produce products?,This product category follows standard availability and promotion rules.,product,eb273a8e
+SupermarketCo,Fresh Produce,Question about fresh produce products?,This product category follows standard availability and promotion rules.,product,eb273a8e
+SupermarketCo,Fresh Produce,Question about fresh produce products?,This product category follows standard availability and promotion rules.,product,eb273a8e
+SupermarketCo,Fresh Produce,What is the size range of organic apples available at SupermarketCo?,"The organic apples are sized between small to large, depending on their type.",product,1a753ca8
+SupermarketCo,Fresh Produce,Are there any promotions for fresh produce that require a minimum spend?,"Currently, no minimum spend is required; all customers can purchase at regular price or take advantage of deals like 'Buy One Get One Free'.",product,756952b3
+SupermarketCo,Fresh Produce,Can I find fresh organic vegetables at SupermarketCo?,"Yes, we offer a wide selection of size and dietary preferences for our fresh produce.",product,27f8f6e8
+SupermarketCo,Fresh Produce,Are there any promotions on bulk buying fruits this season?,Eligible customers can purchase in larger quantities at discounted rates during select times.,product,75a697ed
+SupermarketCo,Fresh Produce,What types of fresh produce are available at SupermarketCo?,"SupermarketCo offers a wide variety of fresh fruits and vegetables, including seasonal options.",product,c8cf1813
+SupermarketCo,Fresh Produce,Are there any promotions for purchasing bulk quantities of apples or carrots at SupermarketCo?,"Yes, customers can save with our 'Bulk Buy' promotion when they purchase larger amounts. Minimum spend varies by product and quantity; check in-store flyers.",product,e46d2320
+SupermarketCo,Fresh Produce,Question about fresh produce products?,This product category follows standard availability and promotion rules.,product,eb273a8e
+SupermarketCo,Fresh Produce,What are the common allergens found in fresh produce at SupermarketCo?,"Fresh fruits and vegetables typically do not contain allergens, but individuals with specific sensitivities should check product labels.",product,efa1a139
+SupermarketCo,Fresh Produce,Are there any size options available for organic apples at SupermarketCo's Fresh Produce category?,"Yes, customers can choose from small to large-size bags of fresh organic apples depending on their needs and preferences.",product,7ca5f09a
+SupermarketCo,Fresh Produce,Question about fresh produce products?,This product category follows standard availability and promotion rules.,product,eb273a8e
+SupermarketCo,Household,Question about household products?,This product category follows standard availability and promotion rules.,product,cf7e39ac
+SupermarketCo,Household,Question about household products?,This product category follows standard availability and promotion rules.,product,cf7e39ac
+SupermarketCo,Household,Question about household products?,This product category follows standard availability and promotion rules.,product,cf7e39ac
+SupermarketCo,Household,Question about household products?,This product category follows standard availability and promotion rules.,product,cf7e39ac
+SupermarketCo,Household,Can I find any organic laundry detergents at SupermarketCo?,"Yes, we offer a variety of eco-friendly and hypoallergenic sizes.",product,05b57092
+SupermarketCo,Household,Are the store promotions for household products valid on all brands or just specific ones?,Our weekend stacking deal applies to select popular house brand items only.,product,995805d0
+SupermarketCo,Household,Question about household products?,This product category follows standard availability and promotion rules.,product,cf7e39ac
+SupermarketCo,Household,What product sizes does the oat flour come in at SupermarketCo?,"The available size for our organic, gluten-free oat flour is a standard 500g pack.",product,4fc1ee05
+SupermarketCo,Household,Are there any current promotions on lactose-free milk products at SupermarketCo?,"Yes, purchase two liters of lactose-free milk and get the third one for free. There's no minimum spend required to qualify this promotion.",product,adfc7946
+SupermarketCo,Household,Can I find gluten-free products at SupermarketCo?,"Yes, we offer a range of gluten-free household items.",product,06b8089c
+SupermarketCo,Household,What is the minimum spend required for using promotional coupons at SupermarketCo?,The eligibility criteria vary by promotion; please check specific offers as they have different spending requirements and conditions to be met.,product,8b332138
+SupermarketCo,Household,Can I use the SupermarketCo brand allergy-free bread if my friend has gluten sensitivity?,"Yes, our allergy-free option is suitable for those with specific dietary needs.",product,6c439b19
+SupermarketCo,Household,Is there a promotion at SupermarketCo where customers can earn points on multiple products' purchases in the household category?,Earn double loyalty points when you buy two or more of our eco-friendly cleaning supplies during Happy Clean Home week.,product,f94ef642
+SupermarketCo,Household,What are the size options for SupermarketCo's biodegradable dish sponges?,"The available sizes include small, medium, and large.",product,11a2a099
+SupermarketCo,Household,Are there any promotions on gluten-free products at SupermarketCo currently?,Eligible customers can avail 10% off on all selected gluten-free items during their next visit by using the special discount code 'GFBOUNTY'.,product,4c8fa846
+SupermarketCo,Household,Question about household products?,This product category follows standard availability and promotion rules.,product,cf7e39ac
+SupermarketCo,Household,Question about household products?,This product category follows standard availability and promotion rules.,product,cf7e39ac
+SupermarketCo,Household,Question about household products?,This product category follows standard availability and promotion rules.,product,cf7e39ac
+SupermarketCo,Household,Question about household products?,This product category follows standard availability and promotion rules.,product,cf7e39ac
+SupermarketCo,Household,Question about household products?,This product category follows standard availability and promotion rules.,product,cf7e39ac
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,What sizes are available for the SupermarketCo organic apple juice?,The product is only available in a 1-liter size.,product,07156a14
+SupermarketCo,Beverages,"Are there any promotions on bottled water from SupermarketCo, and do I need to spend anything extra to qualify?",SupermarketCo has a Buy One Get One Free promotion for the premium sparkling mineral water when you spend $20 or more.,product,102f7593
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,What are the common allergens found in SupermarketCo's beverener drink?,The most frequent allergens include soy and almond.,product,6e266ed1
+SupermarketCo,Beverages,"Is there a promotion for first-time buyers at SupermarketCo, and what do I need to know about it?","Yes, new customers can receive an additional 10% discount on their first beverener purchase by using the promo code NEWBREWER.",product,9e74501b
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,Can I find non-alcoholic beer options at SupermarketCo?,"Yes, we offer a variety of non-alcoholic and low/no sugar content options.",product,6a79f9f6
+SupermarketCo,Beverages,What promotions are available for purchasing canned soda in bulk at SupermarketCo?,"Bulk purchase offers require minimum spend to qualify; however, specific amounts vary by product. Look out for signage or visit our website during ongoing deals.",product,37501961
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,Question about beverages products?,This product category follows standard availability and promotion rules.,product,32c9c603
+SupermarketCo,Beverages,What sizes of the Green Tea Latte are available?,"Sizes include Small (8 oz), Medium (12 oz), and Large (16 oz).",product,a07d008d
+SupermarketCo,Beverages,Are there any dairy-free versions of the Mocha Frappe at SupermarketCo?,"Yes, we offer a Dairy-Free version using almond milk.",product,c677deb4
